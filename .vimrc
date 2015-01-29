@@ -40,3 +40,7 @@ let g:SrcExpl_winHeight = 8
 let g:SrcExpl_refreshTime = 100 
 map<C-n> :NERDTreeToggle<CR>
 map<F5> :w <CR> :! make<CR>
+let g:airline_theme='powerlineish'
+let g:Powerline_symbols = "fancy"
+set t_Co=256
+let g:NERDTreeDirArrows=0
