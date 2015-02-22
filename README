@@ -1,0 +1,11 @@
+This is .vimrc file.
+
+You can set vim to use this file.
+
+After clone, copy this at home directory.
+
+This file includes some vim plugins. So, If you want to use all of this .vimrc file, please visit https://github.com/jayden7391/vi-plugin and install.
+
+Otherwise, delete plugin descriptor in this .vimrc file.
+
+**** After clone this, if you can not see .vimrc file, just type "vi .vimrc". Then you can open and edit this file. Because, .* file is blinded by system.
